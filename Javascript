@@ -1,0 +1,11 @@
+// Get the current time
+let currentTime = new Date().getHours();
+
+// Display a greeting message based on the time
+if (currentTime < 12) {
+ console.log("Good morning!");
+} else if (currentTime < 18) {
+ console.log("Good afternoon!");
+} else {
+ console.log("Good evening!");
+}￼Enter
