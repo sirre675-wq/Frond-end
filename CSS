@@ -1,0 +1,27 @@
+/* Global Styles */
+body {
+ font-family: Arial, sans-serif;
+ background-color: #f2f2f2;
+}
+
+/* Heading Styles */
+h1 {
+ color: #00698f;
+ text-align: center;
+}
+
+/* Paragraph Styles */
+p {
+ font-size: 18px;
+ color: #666;
+}
+
+/* Link Styles */
+a {
+ text-decoration: none;
+ color: #008000;
+}
+
+a:hover {
+ color: #00b300;
+}
